@@ -9,7 +9,11 @@ apt-get install python3
 ```
 ```bash
 git clone https://github.com/STgazing/PSG.git
+```
+```bash
 cd PSG
+```
+```bash
 python3 psg.py
 ```
 
