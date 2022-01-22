@@ -44,7 +44,7 @@ sudo apt-get install python3
 sudo dnf install python3
 ```
 
-## 🖥 Installation
+## 💻 Installation
 ```bash
 git clone https://github.com/STgazing/PSG.git
 ```
