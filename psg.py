@@ -1,19 +1,31 @@
 #This program generates a random password
 import random
+import os
+class color : 
+   GREEN = '\033[92m'
+   RED = '\033[91m'
+   WHITE = '\033[0m'
+   Blue = '\033[94m'
 def stars():
     #This function specifies the number of stars
     if count < 16:
-        print('*' * 16)
+        print(color.GREEN + '*' * 16)
     else:
-        print('*' * count) 
+        print(color.GREEN + '*' * count) 
 
+print(color.RED + '''
+
+
+
+
+█▀█ ▄▀█ █▀ █▀ █░█░█ █▀█ █▀█ █▀▄   █▀▀ █▀▀ █▄░█ █▀▀ █▀█ ▄▀█ ▀█▀ █▀█ █▀█
+█▀▀ █▀█ ▄█ ▄█ ▀▄▀▄▀ █▄█ █▀▄ █▄▀   █▄█ ██▄ █░▀█ ██▄ █▀▄ █▀█ ░█░ █▄█ █▀▄
+''')
+print(color.Blue + '          Folow on Github: https://github.com/STgazing/PSG')
+print(color.Blue + '                  Telegram: @mbin_gh or @Mhyar_nsi')
 print('''
-##################
-PASSWORD GENERATOR
-##################   
-
- ''')
-count = int(input('Please Enter The Number Of Password Digits:  '))
+''')
+count = int(input(color.WHITE +'Please Enter The Number Of Password Digits: '))
 print('''
 ''')
 if count > 94 or count < 1:
@@ -22,12 +34,11 @@ else:
     passchars = list('''0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+={[}]|\:;"'<,>.?/''')
     random.shuffle(passchars)
     stars()
-    print('Your Password Is:')
+    print('Your Password:')
     for i in passchars[:count]:
         print(i,end='')
     print('')    
     stars()    
 
-#Mobin Ghanbarpour
-#Mahyar Nasiri
-      
+print('''
+''')
