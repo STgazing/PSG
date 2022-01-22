@@ -1,6 +1,32 @@
 <h3 align="center">♻️ Password Generator (PSG)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stgazing&label=Profile%20views&color=0e75b6&style=flat" alt="stgazing" /> </p>
+
+
+
+
+
+
+
+
+<p align="center">
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/watchers/Stgazing/PSG?color=red&label=viewers&logo=github&style=flat-square" alt="github-viewers" />
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/twitter/follow/lotostech?color=blue&label=Follow&logo=twitter&style=flat-square" alt="Follow-Twitter"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/languages/count/STgazing/PSG?color=%23ff8000%09%09&style=flat-square" alt="lang"/>
+</a>
+</p>
+
+
+
+
+
+
+
+
 
 
 ## 🖥 Installation
