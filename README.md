@@ -1,12 +1,6 @@
 <h3 align="center">♻️ Password Generator (PSG)</h3>
 
-
-
 <p align="center"><img src="https://im2.ezgif.com/tmp/ezgif-2-2392d6e668.gif" /></p>
-
-
-
-
 
 <p align="center">
 <a href="https://github.com/STgazing/PSG" target="blank">
@@ -19,9 +13,6 @@
 <img src="https://img.shields.io/github/languages/count/STgazing/PSG?color=%23ff8000%09%09&style=flat-square" alt="lang"/>
 </a>
 </p>
-
-
-
 
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -55,10 +46,8 @@ cd PSG
 python3 psg.py
 ```
 
-
 ## 📝 blog
 -  we regularly write articles on [https://lotos-tech.com](https://lotos-tech.com)
-
 
 ## 🌐 contact us 
 <p align="left">
