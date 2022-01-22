@@ -5,7 +5,7 @@
 
 ## 🖥Installation
 ```bash
-apt-get install python3-pip
+apt-get install python3
 ```
 ```bash
 git clone https://github.com/STgazing/PSG.git
