@@ -59,8 +59,6 @@ python3 psg.py
 ## 📝 blog
 -  we regularly write articles on [https://lotos-tech.com](https://lotos-tech.com)
 
-## 📈 STgazing stat
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stgazing&show_icons=true&locale=en" alt="stgazing" /></p>
 
 ## 🌐 contact us 
 <p align="left">
