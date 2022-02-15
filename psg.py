@@ -19,7 +19,6 @@ print(color.RED + '''
 █▀▀ █▀█ ▄█ ▄█ ▀▄▀▄▀ █▄█ █▀▄ █▄▀   █▄█ ██▄ █░▀█ ██▄ █▀▄ █▀█ ░█░ █▄█ █▀▄
 ''')
 print(color.Blue + '          Folow on Github: https://github.com/STgazing/PSG')
-print(color.Blue + '                  Telegram: @mbin_gh or @Mhyar_nsi')
 print('''
 ''')
 count = int(input(color.WHITE +'[+] Please Enter The Number Of Password Digits: '))
